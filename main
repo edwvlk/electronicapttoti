@@ -1,0 +1,11 @@
+electronica-site/
+├── index.html
+├── despre.html
+├── resurse.html
+├── galerie.html
+├── contact.html
+├── style.css
+└── imagini/
+    ├── img1.jpg
+    ├── img2.jpg
+    └── img3.jpg
